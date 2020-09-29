@@ -140,6 +140,11 @@ hr {
   width: 30%;
 }
 
+.intro-paragraph {
+  width: 30%;
+  margin: 40px auto 40px auto;
+}
+
 
 .classname {
 	-moz-box-shadow: 0px 10px 14px -7px #276873;
