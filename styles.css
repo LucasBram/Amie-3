@@ -22,8 +22,7 @@ h2 {
 h3 {
   color:  #11999E;
   font-family: 'Montserrat', sans-serif;
-  width: 30%;
-  margin:auto;
+
 }
 
 a {
@@ -152,6 +151,11 @@ hr {
   width: 30%;
   margin: auto;
   font-size: 0.75rem;
+}
+
+.contact.para {
+  width: 30%;
+  margin: auto;
 }
 
 
