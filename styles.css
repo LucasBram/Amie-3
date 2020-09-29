@@ -124,7 +124,6 @@ hr {
 }
 
 .copyright {
-  font-size: 1;
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
@@ -145,6 +144,11 @@ hr {
 .intro-paragraph {
   width: 30%;
   margin: 40px auto 40px auto;
+}
+
+.attribute-Icon {
+  width: 30%;
+  margin: auto;
 }
 
 
